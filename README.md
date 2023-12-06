@@ -1,13 +1,13 @@
-# WebServer - NodeJS
+<h1 align="center"> WebServer - NodeJS </h1>
 
-Atividade 
-_________________________________________________________
+### Atividade 
 
  Desenvolvimento Web III - DSM FATEC Zona Sul
 
 Professor: Vinicius Heltai Pacheco
 
-Integrantes do Grupo 
- - Geovanna Gabrielle Teixeira de Jesus
- - Maria Luiza Cruvinel dos Santos
- - Thiago dos Santos Lucas 
+<h2 align="center">✍🏽 - Autores</h2>
+
+- [Gabrielle Teixeira](https://github.com/Gabstxr)
+- [Thiago dos Santos](https://github.com/thluc)
+- [Maria Luiza Cruvinel](https://github.com/Cruvnel)
